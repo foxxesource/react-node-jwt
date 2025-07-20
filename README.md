@@ -22,10 +22,10 @@ I have created this project containing these features :
 
 ## **Table of Contents**
 
-- [Technologies Used](#technologies%20used)
-- [Getting Started](#getting%20started)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
 - [Configuration](#configuration)
-- [Available Scripts](#available%20scripts)
+- [Available Scripts](#available-scripts)
 - [Contributing](#contributing)
 - [License](#license)
 
