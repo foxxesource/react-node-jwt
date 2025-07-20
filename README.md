@@ -117,10 +117,10 @@ Create a .env file in the backend directory with:
     #Start development server
     npm run dev 
 
-    Build for production
+    #Build for production
     npm run build 
 
-    Run ESLint
+    #Run ESLint
     npm run lint 
 ```
 
